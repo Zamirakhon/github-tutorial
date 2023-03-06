@@ -1,4 +1,10 @@
 h2{
-    background-color: pink;
+    background-color: #ffc0cb;
     color: #fff;
+    text-align: center;
+
+}
+p{
+    color: yellowgreen;
+    background: plum;
 }
